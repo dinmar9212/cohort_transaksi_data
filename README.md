@@ -27,5 +27,10 @@ pip install pandas numpy matplotlib seaborn
 - Heatmap yang mengilustrasikan tingkat retensi pelanggan dari waktu ke waktu.
 - Wawasan mengenai pola loyalitas pelanggan berdasarkan analisis cohort.
 
+## Kontak
+**Dinmar Pratama**
+- [GitHub](https://github.com/dinmar9212)
+- [LinkedIn](https://www.linkedin.com/in/dinmar-pratama-2516b8224/)
+
 ## Lisensi
 Proyek ini didistribusikan di bawah lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
